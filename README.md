@@ -1,3 +1,3 @@
 # Simple_calculator
 <br>
-Author - Amrit Shrestha
+Author - Amrit Shrestha (Github Test)
